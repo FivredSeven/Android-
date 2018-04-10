@@ -4,6 +4,7 @@ tracywu
 
 ## 性能优化
 - [ ] [性能优化](./性能优化.md)
+- [ ] [热门技术](./热门技术.md)
 
 #### Android中ANR的情况，怎么出现，怎么解决
 `https://blog.csdn.net/qq_14906597/article/details/51800486`
