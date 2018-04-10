@@ -2,6 +2,9 @@
 日常学习进阶知识积累
 tracywu
 
+## 性能优化
+- [ ] [性能优化](./性能优化.md)
+
 #### Android中ANR的情况，怎么出现，怎么解决
 `https://blog.csdn.net/qq_14906597/article/details/51800486`
 KeyDispatchTimeout(5 seconds) –主要类型按键或触摸事件在5秒内无响应
@@ -325,23 +328,6 @@ onTouchEvent()
 * 帧动画
 * 补间动画，平移，旋转，淡入淡出，缩放
 * 属性动画
-
-
-## 性能优化
-Android 性能优化 (一)APK高效瘦身 
-http://blog.csdn.net/whb20081815/article/details/70140063
-Android 性能优化 (二)数据库优化 秒变大神
-http://blog.csdn.net/whb20081815/article/details/70142033
-Android 性能优化（三）布局优化 秒变大神 
-http://blog.csdn.net/whb20081815/article/details/70147958
-Android 性能优化（四）内存优化OOM 秒变大神
-http://blog.csdn.net/whb20081815/article/details/70243105
-Android 性能优化（五）ANR 秒变大神
-http://blog.csdn.net/whb20081815/article/details/70245594
-Android 性能优化（六） RelativeLayout和LinearLayout性能比较
-http://blog.csdn.net/whb20081815/article/details/74465870
-Android 性能优化<七>自定义view绘制优化 
-http://blog.csdn.net/whb20081815/article/details/74474736
 
 #### ContentProvider 
 https://blog.csdn.net/carson_ho/article/details/76101093
